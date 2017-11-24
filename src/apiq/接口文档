@@ -1,0 +1,14 @@
+轮播接口: https://c.y.qq.com/musichall/fcgi-bin/fcg_yqqhomepagerecommend.fcg
+
+URL中携带的方式提交的参数
+    g_tk:5381
+    uin:0
+    format:json
+    inCharset:utf-8
+    outCharset:utf-8
+    notice:0
+    platform:h5
+    needNewCode:1
+    _:1510900116543
+
+
